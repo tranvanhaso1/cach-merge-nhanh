@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 issue53 
 duoc sua boi nhanh master
+=======
+issue53
+duoc sua boi issue53
+>>>>>>> issue53
